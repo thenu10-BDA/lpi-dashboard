@@ -60,6 +60,4 @@ Basic functional testing was conducted to ensure:
 ## 👤 Author  
 [Thenuki Dissanayaka]
 
----
 
-## 📁 Project Structure  
